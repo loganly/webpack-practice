@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'JoyfulBlack';
+  src: url('font/JoyfulBlack.otf');
+}
+.search-text {
+  font-size: 20px;
+  color: #f00;
+  font-family: JoyfulBlack;
+}
